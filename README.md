@@ -1,6 +1,6 @@
 # Project-9-Cyber---Password-Generator
 GUI Based Password Generator, Idea Iterations.  
-- Aim: Use Dataclass and Gui Programming.  
+- Aim: Use Dataclasses module and Gui Programming.  
 - See To Dos. 
 
 ## Example Usage: 
