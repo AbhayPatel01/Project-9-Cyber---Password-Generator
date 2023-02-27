@@ -1,0 +1,8 @@
+# TO DO: 
+    # GUI Interface (Select, length, complexity, Sentence/Single Word or not, etc...) W Database/Password Manager Like application. 
+    # CLI Interface (w color, etc..) 
+    # Secure Coding Practices. 
+        # self._pwd (private variable, can still be accessed; file can be opened viewable, can be reverse engineered, etc.. ) 
+    # Better styling, UI, etc. 
+    # Program Processing Mechanism, more efficiently.  
+         
