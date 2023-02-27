@@ -1,7 +1,10 @@
 # Project-9-Cyber---Password-Generator
 GUI Based Password Generator, Idea Iterations.  
-- Aim: Use Dataclasses module and GUI Programming.  
+- Aim: Using DataClass(OOP) and Tkinter(GUI) Programming.   
 - See To Dos. 
+
+## Why ? 
+Allows choices for password generation, with a simple user interface; Motivates Users to Make Better Passwords. 
 
 ## Example Usage: 
 <img width="664" alt="Example Usage" src="https://user-images.githubusercontent.com/124969526/221507170-b4568112-91b4-4382-92da-ee2e98e0c582.png">
